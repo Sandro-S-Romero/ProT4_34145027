@@ -1,4 +1,4 @@
-
+//database
 import mysqlConnection from 'mysql2/promise';
 
 const properties = {
